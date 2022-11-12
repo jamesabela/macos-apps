@@ -106,6 +106,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Learn
 
 - [Anki](https://apps.ankiweb.net/)
+- [Debate Starter](https://github.com/jamesabela/debateStarter/) - History Topic Debate Starter
 - [Soulver](http://acqualia.com/soulver/)
 
 ## Music
